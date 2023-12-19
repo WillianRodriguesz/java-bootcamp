@@ -1,0 +1,4 @@
+com/mycompany/banco/Conta.class
+com/mycompany/banco/ValorInvalidoException.class
+com/mycompany/banco/ContaEspecial.class
+com/mycompany/banco/Banco.class
